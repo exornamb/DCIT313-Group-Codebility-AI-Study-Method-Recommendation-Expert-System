@@ -55,8 +55,8 @@ class StudyExpertSystemGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Study Method Recommendation Expert System")
-        self.root.geometry("980x720")
-        self.root.minsize(900, 650)
+        self.root.geometry("1100x720")
+        self.root.minsize(1000, 650)
 
         self.prolog = Prolog()
         self.prolog.consult("../knowledge_base/studyrules.pl")
@@ -106,22 +106,22 @@ class StudyExpertSystemGUI:
             frame = tk.Frame(self.scrollable_frame)
             frame.pack(fill="x", pady=5)
 
-            # Question label (limit width so it doesn't push buttons)
+            
             label = tk.Label(
                 frame,
                 text=question,
                 anchor="w",
                 justify="left",
-                wraplength=380   # 👈 REDUCED from 500 → 380
+                wraplength=500   
             )
-            label.pack(side="left", fill="x", expand=True)
+            label.pack(side="top", fill="x")
 
             var = tk.StringVar(value="no")
             self.answers[trait] = var
 
             # Create a separate frame for buttons
             btn_frame = tk.Frame(frame)
-            btn_frame.pack(side="right")
+            btn_frame.pack(side="top")
 
             yes_btn = tk.Radiobutton(btn_frame, text="Yes", variable=var, value="yes")
             no_btn = tk.Radiobutton(btn_frame, text="No", variable=var, value="no")
