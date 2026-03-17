@@ -38,4 +38,4 @@ Helps in developing a Python interface for the system and integrating it with Pr
 Helps in designing user interaction prompts and developing an input collection system.
 
 ### **Mary Immaculata Donkor – Programmer IV**
-Conducts testing and verification of the system to ensure that recommended study methods are accurate.~
+Conducts testing and verification of the system to ensure that recommended study methods are accurate.
