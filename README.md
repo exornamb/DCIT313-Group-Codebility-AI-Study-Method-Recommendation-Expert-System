@@ -4,7 +4,7 @@
 - **Jennifer Banibensu** - [exornamb] - 22013023  
 - **Eastwood Tweneboah Osei** - [tkay0] - 22040957  
 - **Laurel Onny** - [la-onny] - 22241284  
-- **Roland Appiah** - [rolandhimself] - 22197127  
+- **Roland Appiah** - [Glitch-007] - 22197127  
 - **Gilead Kwadwo Aboagye** - [gileadaboagye-cyber] -22235224 
 - **Anastasia Ndanwea** - [Anas-Stasia] - 22027650 
 - **Mary Immaculata Donkor** - [Immaculata] - 22082422
