@@ -7,7 +7,7 @@
 - **Roland Appiah** - [Glitch-007] - 22197127  
 - **Gilead Kwadwo Aboagye** - [gileadaboagye-cyber] -22235224 
 - **Anastasia Ndanwea** - [Anas-Stasia] - 22027650 
-- **Mary Immaculata Donkor** - [Immaculata] - 22082422
+- **Mary Immaculata Donkor** - [IMMA] - 22082422
 
 ---
 
